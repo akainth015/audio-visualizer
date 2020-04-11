@@ -13,18 +13,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82b7d9c2-1206-4955-bf42-7945a1058b39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/audio_visualizer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/audio_visualizer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/akain.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/akain.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +81,8 @@
       <workItem from="1586634578782" duration="339000" />
       <workItem from="1586634922067" duration="51000" />
       <workItem from="1586634976007" duration="772000" />
-      <workItem from="1586636087911" duration="3961000" />
+      <workItem from="1586636087911" duration="4169000" />
+      <workItem from="1586640555835" duration="320000" />
     </task>
     <servers />
   </component>
@@ -119,5 +110,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586639868354" />
+    <state x="667" y="154" width="586" height="732" key="find.popup" timestamp="1586640643045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="154" width="586" height="732" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586640643045" />
   </component>
 </project>
