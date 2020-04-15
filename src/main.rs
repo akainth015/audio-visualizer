@@ -1,9 +1,9 @@
-const NUM_BANDS: i32 = 30;
+const NUM_BANDS: i32 = 50;
 
-const BAR_WIDTH: i32 = 5;
-const MARGIN: i32 = 5;
+const BAR_WIDTH: i32 = 2;
+const MARGIN: i32 = 8;
 
-const MAX_X: i32 = 2 * NUM_BANDS * (BAR_WIDTH + MARGIN);
+const MAX_X: i32 = 2 * NUM_BANDS * (BAR_WIDTH + MARGIN) - MARGIN;
 
 fn main() {
     println!("[Metadata]");

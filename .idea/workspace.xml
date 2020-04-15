@@ -13,8 +13,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82b7d9c2-1206-4955-bf42-7945a1058b39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Pulse.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -49,9 +51,9 @@
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="Run audio_visualizer" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+    <configuration name="Run pulse_meter" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="channel" value="DEFAULT" />
-      <option name="command" value="run --package audio_visualizer --bin audio_visualizer" />
+      <option name="command" value="run --package pulse_meter --bin pulse_meter" />
       <option name="allFeatures" value="false" />
       <option name="nocapture" value="false" />
       <option name="emulateTerminal" value="false" />
@@ -83,6 +85,8 @@
       <workItem from="1586634976007" duration="772000" />
       <workItem from="1586636087911" duration="4169000" />
       <workItem from="1586640555835" duration="320000" />
+      <workItem from="1586989921526" duration="211000" />
+      <workItem from="1586990145128" duration="251000" />
     </task>
     <servers />
   </component>
@@ -90,26 +94,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586639865224">
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586990076889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586639865224" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1586639868354">
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586990076889" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1586990133286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586639868354" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1586639868354">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586990133286" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1586990133286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586639868354" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1586639868354">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586990133286" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1586990133286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586639868354" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1586639868354">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586990133286" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1586990133286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586639868354" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586990133286" />
     <state x="667" y="154" width="586" height="732" key="find.popup" timestamp="1586640643045">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
